@@ -1,11 +1,11 @@
-About perl-test-simple
-======================
+About perl-test-simple-feedstock
+================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/perl-test-simple-feedstock/blob/main/LICENSE.txt)
 
 Home: https://metacpan.org/pod/Test::Simple
 
 Package license: GPL-1.0-or-later OR Artistic-1.0-Perl
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/perl-test-simple-feedstock/blob/main/LICENSE.txt)
 
 Summary: Basic utilities for writing tests.
 
