@@ -1,6 +1,6 @@
 {% set name = "perl-test-simple" %}
-{% set version = "1.302191" %}
-{% set sha256 = "a82f652bc4f2ef1ddcae99d04fc0f8924a35386066a2ab363aabf8372bc5a7ab" %}
+{% set version = "1.302195" %}
+{% set sha256 = "b390bb23592e0b946c95adbb3c30b11bc634a286b2847be611ad929c57e39a6c" %}
 
 package:
   name: {{ name }}
@@ -100,7 +100,7 @@ about:
   home: https://metacpan.org/pod/Test::Simple
   license: GPL-1.0-or-later OR Artistic-1.0-Perl
   license_family: OTHER
-  summary: 'Basic utilities for writing tests.'
+  summary: Basic utilities for writing tests.
   license_file:
     - LICENSE
 
